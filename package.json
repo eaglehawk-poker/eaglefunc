@@ -1,0 +1,20 @@
+{
+  "name": "eaglefunc",
+  "version": "0.0.0",
+  "description": "Utility functions",
+  "main": "eaglefunc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eaglehawk-poker/eaglefunc.git"
+  },
+  "keywords": [
+    "functional",
+    "utility"
+  ],
+  "author": "baelter",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
