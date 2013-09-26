@@ -16,5 +16,12 @@
   ],
   "author": "baelter",
   "license": "MIT",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "amdefine": "0.0.8"
+  },
+  "devDependencies": {
+    "grunt-buster": "~0.2.2",
+    "buster": "~0.7.6"
+  }
 }
